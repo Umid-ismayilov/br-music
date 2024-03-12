@@ -1,9 +1,9 @@
-![GitHub all releases](https://img.shields.io/github/downloads/Umid-ismayilov/br_music/total)
-![GitHub language count](https://img.shields.io/github/languages/count/Umid-ismayilov/br_music)
-![GitHub top language](https://img.shields.io/github/languages/top/Umid-ismayilov/br_music?color=yellow)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Umid-ismayilov/br_music)
-![GitHub forks](https://img.shields.io/github/forks/Umid-ismayilov/br_music?style=social)
-![GitHub Repo stars](https://img.shields.io/github/stars/Umid-ismayilov/br_music?style=social)
+![GitHub all releases](https://img.shields.io/github/downloads/Umid-ismayilov/br-music/total)
+![GitHub language count](https://img.shields.io/github/languages/count/Umid-ismayilov/br-music)
+![GitHub top language](https://img.shields.io/github/languages/top/Umid-ismayilov/br-music?color=yellow)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Umid-ismayilov/br-music)
+![GitHub forks](https://img.shields.io/github/forks/Umid-ismayilov/br-music?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/Umid-ismayilov/br-music?style=social)
 
 
 ## Features
